@@ -85,7 +85,7 @@
     <dependency>
       <groupId>com.github.tschuchortdev</groupId>
       <artifactId>kotlin-compile-testing</artifactId>
-      <version>${kotlin-compile-testing.version}</version>
+      <version>1.2.5</version>
       <scope>test</scope>
     </dependency>
     <dependency>
